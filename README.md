@@ -1,2 +1,2 @@
 # webpack_v1
-Webpack setup for educational purposes for the onlne bootcamp Microverse
+Webpack setup for educational purposes with the online bootcamp Microverse
